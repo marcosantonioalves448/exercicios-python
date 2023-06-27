@@ -1,0 +1,13 @@
+# Dadas as expressões indique se elas são verdadeiras (True) ou falsas (False)
+# a) True and True =  true
+# b) False and True =  false
+# c) 1==1 and 2==1 =  false
+# d) "abc" == "abc" =  true
+# e) 1==1 or 2!=1 =  true
+# f) True and 1 == 1 = true
+# g) False and 0 != 0 = false
+# h) True or 4.0 == 4 =  true
+# i) "test" == "testing" =  true
+# j) 1 != 0 and 2 == 1 = false
+# k) "test" != "testing" = false
+# l) "test" == 1 = false
